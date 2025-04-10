@@ -1,27 +1,33 @@
-# Symbolic Compression Engine
+## Symbolic Compression Engine
 
-**A universal compression system for symbolic, recursive, and irreducible structures.**
+**`.sym` is the `.json` of structured cognition.**  
+This system compresses symbolic sequences using recursive emergence logic, not statistical redundancy.
 
-This open-source engine encodes symbolic data (like primes, Fibonacci, or custom sequences) by extracting recurrence rules and structural curvature—compressing information not by repetition, but by regenerable symbolic logic.
+Unlike traditional data formats that describe static structure, `.sym` files encode **how structure arises**—from initial conditions, recurrence intervals, and symbolic curvature fields.
+
+Powered by **Miller's Law** of symbolic deviation, this engine extracts recurrence rules, detects collapse zones, and stores entire symbolic generative systems in compact, interpretable `.sym` files.
+
+Whether you're modeling primes, Fibonacci-like structures, square-free sequences, or custom symbolic domains—this tool compresses, predicts, and regenerates symbolic intelligence itself.
 
 ---
 
-## Features
+## Key Features
 
-- **Collapse-Based Multi-Zone Compression**  
-  Segment symbolic data into curvature-aware zones and extract recurrence rules per zone.
+- Recurrence-based symbolic compression  
+- Predictive reconstruction of emergent sequences  
+- Multi-zone `.sym` file storage  
+- Domain-agnostic: number theory, logic, perception, AI  
+- Command-line interface for batch processing  
+- Patent-pending technology: U.S. Application No. 63/786,260
 
-- **Recursive Function Encoding**  
-  Compress sequences using rule-based recurrence (e.g. Fibonacci, Tribonacci, Catalan, etc.).
+---
 
-- **Predictive Decompression**  
-  Regenerate full sequences from stored `.sym` rule files—symbolic memory without storing data.
+## Why `.sym`?
 
-- **Structured `.sym` Format**  
-  Stores symbolic rules, curvature parameters, metadata, and regeneration length.
+- **`.json` stores static trees.**  
+- **`.sym` stores recursive emergence.**  
 
-- **Command-Line Interface (CLI)**  
-  Compress, decompress, collapse, or predict using simple terminal commands.
+This system is the foundation for **cognitive data formats**, symbolic AI memory, and next-generation compression across irreducible domains.
 
 ---
 
