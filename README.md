@@ -91,5 +91,19 @@ Filed provisional patent #63/786,260 — April 2025.
 
 ## License
 
-MIT License  
-(You may fork, extend, and use non-commercially. Contact for licensing.)
+```text
+This project is released under a dual-license model:
+
+- MIT License — Free for academic, non-commercial, and open research use
+- Commercial License — Required for proprietary, private, or profit-driven use
+
+To license Symbolic Compression Engine for commercial purposes, contact:
+
+  Triston Miller
+  tristonmiller@protonmail.com
+
+All commercial uses—e.g., enterprise deployment, SaaS integration, embedded systems,
+or derivative technologies intended for sale—must be explicitly licensed.
+
+Patent Pending — US Provisional Application #63/786,260
+```
